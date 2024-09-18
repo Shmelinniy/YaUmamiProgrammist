@@ -1,5 +1,4 @@
 <html>
-<title> ох уж эти дизайнреры </title>
 <h1>я у мамы программист </h1>
 
 <body leftmargin=200 TOPMARGIN=60> Какой то текст.
